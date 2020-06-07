@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2c5209cf-380e-4467-85b9-22f05db0674f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cfQzpfGLfhTCIM9wdCV0XmFCaw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ExamSystemServer/src/com/lagou/question" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\biqi\IdeaProjects\Model5\ExamSystemClient\src\com\lagou\student" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.lagou" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.lagou.model" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\biqi\IdeaProjects\Model5\ExamSystemServer\src\com\lagou\question" />
+      <recent name="C:\Users\biqi\IdeaProjects\Model5\ExamSystemServer\src\com\lagou\user" />
+      <recent name="C:\Users\biqi\IdeaProjects\Model5\ExamSystemClient\src\com\lagou\student" />
+      <recent name="C:\Users\biqi\IdeaProjects\Model5" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ServerTest">
+    <configuration name="ClientTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lagou.test.ClientTest" />
+      <module name="Model5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lagou.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lagou.test.ServerTest" />
+      <module name="Model5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lagou.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lagou.student.StudentTest" />
+      <module name="Model5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lagou.student.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Model4.task03.test03" />
+      <module name="Model4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Model4.task03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="writeNew" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lagou.writeNew" />
+      <module name="Model5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lagou.write.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ClientTest" />
+        <item itemvalue="Application.ServerTest" />
+        <item itemvalue="Application.writeNew" />
+        <item itemvalue="Application.test03" />
+        <item itemvalue="Application.StudentTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2c5209cf-380e-4467-85b9-22f05db0674f" name="Default Changelist" comment="" />
+      <created>1590917432786</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590917432786</updated>
+      <workItem from="1590917437294" duration="2546000" />
+      <workItem from="1591018374274" duration="10315000" />
+      <workItem from="1591106201709" duration="3326000" />
+      <workItem from="1591196759909" duration="1408000" />
+      <workItem from="1591280520645" duration="1961000" />
+      <workItem from="1591418261954" duration="24557000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="574" y="96" key="#com.intellij.ide.util.MemberChooser" timestamp="1591281741808">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="96" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1591281741808" />
+    <state x="383" y="337" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1591021730414">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="383" y="337" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.824@0.0.1536.824" timestamp="1591021730414" />
+    <state x="548" y="271" width="439" height="291" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1591020118837">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="548" y="271" width="439" height="291" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1591020118837" />
+    <state x="548" y="292" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1591021732167">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="548" y="292" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1536.824@0.0.1536.824" timestamp="1591021732167" />
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1591506208372">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1591506208372" />
+    <state width="439" height="466" key="DebuggerActiveHint" timestamp="1591507719177">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="439" height="466" key="DebuggerActiveHint/0.0.1536.824@0.0.1536.824" timestamp="1591507719177" />
+    <state x="549" y="102" key="FileChooserDialogImpl" timestamp="1590938705118">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="102" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1590938705118" />
+    <state width="1537" height="261" key="GridCell.Tab.0.bottom" timestamp="1591510571053">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="261" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1591510571053" />
+    <state width="1537" height="261" key="GridCell.Tab.0.center" timestamp="1591510571053">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="261" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1591510571053" />
+    <state width="1537" height="261" key="GridCell.Tab.0.left" timestamp="1591510571053">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="261" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1591510571053" />
+    <state width="1537" height="261" key="GridCell.Tab.0.right" timestamp="1591510571053">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="261" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1591510571053" />
+    <state width="1537" height="261" key="GridCell.Tab.1.bottom" timestamp="1591510571054">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1591510571054" />
+    <state width="1537" height="261" key="GridCell.Tab.1.center" timestamp="1591510571054">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1591510571054" />
+    <state width="1537" height="261" key="GridCell.Tab.1.left" timestamp="1591510571054">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1591510571054" />
+    <state width="1537" height="261" key="GridCell.Tab.1.right" timestamp="1591510571054">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1591510571054" />
+    <state x="408" y="110" key="NewModule_or_Project.wizard" timestamp="1590938718893">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="408" y="110" key="NewModule_or_Project.wizard/0.0.1536.824@0.0.1536.824" timestamp="1590938718893" />
+    <state x="270" y="54" key="SettingsEditor" timestamp="1591445443811">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="54" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1591445443811" />
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1591418262626">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1591418262626" />
+    <state x="447" y="145" width="642" height="534" key="find.popup" timestamp="1591106422178">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="447" y="145" width="642" height="534" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1591106422178" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1591510075530">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1591510075530" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ExamSystemServer/src/com/lagou/server/ServerDao.java</url>
+          <line>65</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ExamSystemClient/src/com/lagou/client/ClientView.java</url>
+          <line>158</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
